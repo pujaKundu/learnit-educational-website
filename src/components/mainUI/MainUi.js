@@ -6,6 +6,7 @@ import About from "../about/About";
 import Courses from "../courses/Courses";
 import Instructors from "../instructors/Instructors";
 import NotFound from "../NotFound/NotFound";
+import Footer from "../footer/Footer";
 
 const MainUi = () => {
   return (
@@ -13,7 +14,7 @@ const MainUi = () => {
       <BrowserRouter>
         <Header></Header>
         <Switch>
-          <Route path="/home">
+          <Route exact path="/home">
             <Home></Home>
           </Route>
           <Route path="/about">
@@ -29,6 +30,7 @@ const MainUi = () => {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </BrowserRouter>
     </div>
   );
