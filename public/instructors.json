@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kabir Khan",
+    "designation": "Web developer",
+    "img": "https://preview.colorlib.com/theme/onlineedu/assets/img/gallery/xteam1.png.pagespeed.ic.XP8FuCEpbp.webp"
+  },
+  {
+    "id": 2,
+    "name": "Nahid Khan",
+    "designation": "Android developer",
+    "img": "https://preview.colorlib.com/theme/onlineedu/assets/img/gallery/xteam2.png.pagespeed.ic.DkAYUTIFKv.webp"
+  },
+  {
+    "id": 3,
+    "name": "Rakib Molla",
+    "designation": "Full Stack developer",
+    "img": "https://preview.colorlib.com/theme/onlineedu/assets/img/gallery/xteam3.png.pagespeed.ic.ZjKltUw-pd.webp"
+  },
+  {
+    "id": 4,
+    "name": "Muhit Khan",
+    "designation": "Android developer",
+    "img": "https://preview.colorlib.com/theme/onlineedu/assets/img/gallery/xteam4.png.pagespeed.ic.klxTBb6pMG.webp"
+  }
+]

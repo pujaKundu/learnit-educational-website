@@ -14,7 +14,10 @@ const MainUi = () => {
       <BrowserRouter>
         <Header></Header>
         <Switch>
-          <Route exact path="/home">
+          <Route exact path="/">
+            <Home></Home>
+          </Route>
+          <Route path="/home">
             <Home></Home>
           </Route>
           <Route path="/about">

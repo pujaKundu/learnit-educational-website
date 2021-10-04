@@ -19,7 +19,7 @@ const copyright = <FontAwesomeIcon icon={faCopyright} />;
 const Footer = () => {
   return (
     <div className="container-fluid bg-dark text-white py-3 ">
-      <p>
+      <p className="mt-5">
         {quoteLeft} The roots of education are bitter, but the fruit is sweet .
         {quoteRight}
       </p>
