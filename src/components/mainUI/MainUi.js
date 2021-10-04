@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../Header/Header";
-import { BrowserRouter, Switch, Route, NavLink } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "../Home/Home";
 import About from "../about/About";
 import Courses from "../courses/Courses";

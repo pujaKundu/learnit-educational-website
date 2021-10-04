@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Front-end Development",
+    "price": 2000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsecD_qrhsAWPz-ZuTMUaMXeqUmI4awEHaIFid5wToh8Te8lGKH9aAB4vgSkHz3e1A0Y&usqp=CAU",
+    "duration": "3 months",
+    "projects": 11,
+    "videos": 540,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 4
+  },
+  {
+    "id": 2,
+    "name": "Back-end Development",
+    "price": 3000,
+    "img": "https://cdn4.vectorstock.com/i/thumb-large/78/48/back-end-icon-simple-element-from-website-vector-34877848.jpg",
+    "duration": "4 months",
+    "projects": 11,
+    "videos": 640,
+    "level": "Intermediate",
+    "access": "Lifetime",
+    "star": 3
+  },
+  {
+    "id": 3,
+    "name": "App Development",
+    "price": 3000,
+    "img": "https://cdn1.vectorstock.com/i/thumb-large/00/70/smartphone-technology-icon-phone-app-development-vector-12050070.jpg",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 500,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 4
+  },
+  {
+    "id": 4,
+    "name": "Machine Learning",
+    "price": 5000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1pgjCZLHhT5BrkwmPJ5xWY0lmWRjGUyqCA&usqp=CAU",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 4
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Front-end Development",
+    "price": 2000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsecD_qrhsAWPz-ZuTMUaMXeqUmI4awEHaIFid5wToh8Te8lGKH9aAB4vgSkHz3e1A0Y&usqp=CAU",
+    "duration": "3 months",
+    "projects": 11,
+    "videos": 540,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 4
+  },
+  {
+    "id": 2,
+    "name": "Back-end Development",
+    "price": 3000,
+    "img": "https://cdn4.vectorstock.com/i/thumb-large/78/48/back-end-icon-simple-element-from-website-vector-34877848.jpg",
+    "duration": "4 months",
+    "projects": 11,
+    "videos": 640,
+    "level": "Intermediate",
+    "access": "Lifetime",
+    "star": 3
+  },
+  {
+    "id": 3,
+    "name": "App Development",
+    "price": 3000,
+    "img": "https://cdn1.vectorstock.com/i/thumb-large/00/70/smartphone-technology-icon-phone-app-development-vector-12050070.jpg",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 500,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 3
+  },
+  {
+    "id": 4,
+    "name": "Machine Learning",
+    "price": 5000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1pgjCZLHhT5BrkwmPJ5xWY0lmWRjGUyqCA&usqp=CAU",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 5
+  },
+  {
+    "id": 5,
+    "name": "C++",
+    "price": 2000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85V_d1LxioRHrneAcMsCoytKjMR4GpHbH9g&usqp=CAU",
+    "duration": "3 months",
+    "projects": 8,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "Lifetime",
+    "star": 3
+  },
+  {
+    "id": 6,
+    "name": "Python",
+    "price": 2500,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGOI4gXlYGohe01CPZzYW2q4KQutWn7l8nA&usqp=CAU",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "3 years",
+    "star": 3
+  },
+  {
+    "id": 7,
+    "name": "Advanced Javascript",
+    "price": 3000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFmbumzKfcDB6MXlDl1HQWFEE8ttA-7UOHA&usqp=CAU",
+    "duration": "4 months",
+    "projects": 12,
+    "videos": 630,
+    "level": "Intermediate",
+    "access": "2 years",
+    "star": 3
+  },
+  {
+    "id": 8,
+    "name": "Database Learning",
+    "price": 2000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWAUP2cY-Z_yBxRAe6dx8ZYl8s0jt3blspw&usqp=CAU",
+    "duration": "4 months",
+    "projects": 10,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "2 years",
+    "star": 4
+  },
+  {
+    "id": 9,
+    "name": "Robotics",
+    "price": 5000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_4Pg-mqlUfGhtbxLzSSumOM106KUwJbmHg&usqp=CAU",
+    "duration": "6 months",
+    "projects": 10,
+    "videos": 600,
+    "level": "Beginner",
+    "access": "5 years",
+    "star": 4
+  }
+]
