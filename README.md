@@ -1,6 +1,6 @@
 # LearnIT website
 
-## Live site [Create React App](https://github.com/facebook/create-react-app).
+## Live site [https://learnit-educational-website-pujakundu.netlify.app/home]
 
 ## Features
 
