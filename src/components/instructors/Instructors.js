@@ -1,9 +1,11 @@
 import React from "react";
+import InstructorDetails from "../InstructorDetails/InstructorDetails";
 
 const Instructors = () => {
   return (
     <div>
-      <h1>Instructors page</h1>
+      <h1 className="my-5">Instructors</h1>
+      <InstructorDetails></InstructorDetails>
     </div>
   );
 };

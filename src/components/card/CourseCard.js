@@ -12,7 +12,10 @@ const CourseCard = (props) => {
           <Card.Img variant="top" className="img-fluid h-100" src={img} />
           <Card.Body className="pb-5 my-5">
             <Card.Title>{name}</Card.Title>
-            <Card.Text>Price: {price}</Card.Text>
+            <Card.Text>
+              {" "}
+              <span className="fw-bold">Price:</span> {price} Taka
+            </Card.Text>
             <Rating
               className="text-warning"
               initialRating={star}
