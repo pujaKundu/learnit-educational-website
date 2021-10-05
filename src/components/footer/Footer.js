@@ -31,7 +31,7 @@ const Footer = () => {
           <p>{email} learnit@learnit.com</p>
           <p>Mirpur-11,Dhaka,Bangladesh</p>
         </div>
-        <div className="col-2 ">
+        <div className="col-2">
           <img src={image} alt="" />
         </div>
       </div>

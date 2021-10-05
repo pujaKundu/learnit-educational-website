@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Row } from "react-bootstrap";
-import CourseCard from "../card/CourseCard";
+
 import InstructorCard from "../InstructorCard/InstructorCard";
 
 const InstructorDetails = () => {

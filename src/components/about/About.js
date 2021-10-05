@@ -1,6 +1,4 @@
 import React from "react";
-import { Col, Row } from "react-bootstrap";
-import about from "../../images/about-us-page-concept-illustration_114360-3931.jpg";
 
 const About = () => {
   return (

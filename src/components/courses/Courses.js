@@ -3,8 +3,8 @@ import CourseDetails from "../CourseDetails/CourseDetails";
 
 const Courses = () => {
   return (
-    <div>
-      <h1 className="mt-5">Available courses</h1>
+    <div className="my-5">
+      <h1 className="my-5">Available courses</h1>
       <CourseDetails></CourseDetails>
     </div>
   );
